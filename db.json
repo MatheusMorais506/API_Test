@@ -1,8 +1,8 @@
 {
   "usuarios": [
-    { "name": "Matheus", "password": 111 },
-    { "name": "Silva", "password": 222 },
-    { "name": "Barros", "password": 333 },
-    { "name": "Morais", "password": 444 }
+    { "name": "Matheus", "password": "111" },
+    { "name": "Silva", "password": "222" },
+    { "name": "Barros", "password": "333" },
+    { "name": "Morais", "password": "444" }
   ]
 }
